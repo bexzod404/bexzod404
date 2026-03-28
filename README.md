@@ -11,4 +11,4 @@ I work remotely and like to travel a lot.
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/500px-HTML5_logo_and_wordmark.svg.png" width="55px"></code>
 <code><img src="https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo-2011.png" width="100px"></code>
 <code><img src="https://images.seeklogo.com/logo-png/33/2/python-logo-png_seeklogo-332789.png" width="50px"></code>
-<code><img src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo-thumbnail.png" width="50px"></code>
+<code><img src="https://www.vhv.rs/dpng/d/208-2081416_django-development-png-transparent-django-logo-png-download.png" width="50px"></code>
