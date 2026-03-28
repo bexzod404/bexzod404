@@ -8,7 +8,7 @@ I work remotely and like to travel a lot.
 <br />
 
 ### Languages and tools I work with.
-<code><img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" width="50px"></code>
+<code><img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" width="60px"></code>
 <code><img src="https://pngdownload.io/wp-content/uploads/2023/12/CSS-Logo-PNG-Symbol-for-Web-Development-Transparent-jpg.webp" width="50px"></code>
 <code><img src="https://images.seeklogo.com/logo-png/33/2/python-logo-png_seeklogo-332789.png" width="50px"></code>
 <code><img src="https://w7.pngwing.com/pngs/10/113/png-transparent-django-web-development-web-framework-python-software-framework-django-text-trademark-logo-thumbnail.png" width="50px"></code>
